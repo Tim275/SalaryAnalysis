@@ -1,6 +1,6 @@
-## SolaryAnalysis
+# SolaryAnalysis
 
-# Introduction: The Goal about this Project, is  to seperate the given csv. (SQL Table) with the data to  charts to Visualize and analize them.
+## Introduction: The Goal about this Project, is  to seperate the given csv. (SQL Table) with the data to  charts to Visualize and analize them.
 
 i learned before:
 
