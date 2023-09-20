@@ -10,7 +10,7 @@ i learned before:
 
 •	create  visual  graphics in seaplot
 
-In This Project i achieved this skills:
+# In This Project i achieved those skills:
 
 •	How to visualize Data (sealab/panda)
 
@@ -21,7 +21,7 @@ In This Project i achieved this skills:
 In general it can develop important data analysis and visualization skills that can help spot trends and patterns in the data and make informed decisons.
 
 
-#Summary
+# Summary
 1) First attempt i tryed to create a Dataframe from the Solary.csv file.
 The result was the error, but it seems like the file loaded. Why then the Error?
 
