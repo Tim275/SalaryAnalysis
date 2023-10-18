@@ -1,6 +1,6 @@
 # SolaryAnalysis
 
-## Introduction: The Goal about this Project, is  to seperate the given csv. (SQL Table) with the data to  charts to Visualize and analize them.
+## Introduction:  Little project to practicing pandas & sealab
 
 i learned before:
 
