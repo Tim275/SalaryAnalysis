@@ -16,7 +16,7 @@ i learned before:
 
 •	How to filter out relevant Information (panda)
 
-•	calculate statistics (average income) (panda)
+•	calculate statistics (average income e.t.c) (panda)
 
 In general it can develop important data analysis and visualization skills that can help spot trends and patterns in the data and make informed decisons.
 
